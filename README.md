@@ -1,6 +1,8 @@
 # primero
 primer repositorio de github
-
-
-kjhlh lj b
+#############
+#
+# autor: jesus vila
+#############
+2 cambio realizado
 
